@@ -1,5 +1,7 @@
 # Dev-Mobile
 
+Arquitetura;
+
 O projeto MVC e composto pro 5 arquivos que interagem entre si para repartir as funçoes;
 
 controllers.dart e responvavel conter alguns metodos relacionados a operacoes de manipulaçoes de dados tais como 
@@ -11,3 +13,7 @@ para a persistencia de dados, como ReadData para leitura de dados do arquivo .js
 models.dart contem a estrutura dos dados que estarei manipulando. 
 
 views.dart arquivo que contem as partes graficas que o aplicativo utiliza, e importante ressaltar que utilizei na minha aplicacao do views no main. dart devido uma limitacao. 
+
+Funcionalidade;
+
+Com a intencao de ser um simulador de adicao de itens do aliexpress no seu carrinho com algumas funcoes reduzidas. O programa possui uma lista de alguns itens e o usuario pode adicionar itens em seu carrinho e o carrinho apresentara a permanencia dos dados adicionados. 
